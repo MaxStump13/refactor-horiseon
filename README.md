@@ -7,7 +7,7 @@ A marketing agency wanted to make an already existing webpage more accessible an
 N/A
 
 ## Usage
-Here is the deployed link to the website. [Horiseon Deployed Link](MaxStump13.github.io/refactor-horiseon) Below is what the site looks like. At the top right, you can see the navigation bar. By clicking on one of the options, you will be taken to the designated area of the page.
+Here is the deployed link to the website. [Horiseon Deployed Link](https://maxstump13.github.io/refactor-horiseon/) Below is what the site looks like. At the top right, you can see the navigation bar. By clicking on one of the options, you will be taken to the designated area of the page.
 
 ![Screenshot of the horiseon website](./assets/images/horiseon-screenshot.png)
 
